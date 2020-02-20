@@ -1,0 +1,32 @@
+.page-content
+{
+    background-image: 'bg.png';
+}
+
+.padding {
+    padding: 5rem
+}
+
+.add-items {
+    margin-bottom: 1.5rem;
+    overflow: hidden
+}
+
+.add-items .btn {
+    margin-left: .75rem
+}
+
+.px-3
+{
+    padding: 1.5rem !important;
+}
+
+ul{
+    padding-left: 0rem;
+    list-style-type: none;
+}
+
+ul li .card
+{
+    margin-bottom: 0.75rem;
+}
